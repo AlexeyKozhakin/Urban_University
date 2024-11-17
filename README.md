@@ -1,2 +1,2 @@
 # Urban_University
-My studying Python
+Упражнения курса июнь 2024 - январь 2025  
